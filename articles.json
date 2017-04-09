@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "JavaScript Promises",
+      "body": "Don't make Promises you can't resolve!"
+    },
+    {
+      "id": 2,
+      "title": "Just Harry Potter Things...",
+      "body": "Something something muggle. Something something hufflepuff."
+    },
+    {
+      "title": "Isn't this a beautiful color scheme?",
+      "body": "Tasteful... and rich...",
+      "id": 3
+    },
+    {
+      "title": "etst",
+      "body": "test",
+      "id": 4
+    },
+    {
+      "title": "Will this work?",
+      "body": "I hope so",
+      "id": 5
+    }
+  ]
+}

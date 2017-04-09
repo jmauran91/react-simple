@@ -1,0 +1,40 @@
+/* your styles, here */
+
+
+body {
+  background-color: #F9F9E3
+}
+
+h1 {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #8B4513
+}
+
+h2 {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #8B4513
+
+}
+
+.article-show {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #8B4513
+}
+
+.button {
+  color: white;
+  background-color: blue;
+  margin: 10px;
+}
+
+Link {
+  color: white;
+}
+
+#body {
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.new-article-form {
+  background-color: #dadbd0
+}

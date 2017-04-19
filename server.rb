@@ -1,7 +1,6 @@
 require "sinatra"
 require "sinatra/json"
 require "json"
-require 'pry'
 
 # You should not need to change the code in this file
 
